@@ -1,0 +1,5 @@
+{
+  "name": "iPad Hybrid Test",
+  "version": "1.0",
+  "tasks": ["GitHub", "Apps Script", "AppSheet", "Shortcuts"]
+}
